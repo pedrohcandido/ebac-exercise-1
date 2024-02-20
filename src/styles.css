@@ -1,0 +1,52 @@
+.hello1{
+	color: red;
+	font-style: italic;
+	font-size: 60px;
+}
+#hello2{
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+	font-size: 30px;
+}
+.hello3{
+	color: blue;
+	font-size: 50px;
+}
+#hello4{
+	color: chocolate;
+	font-display: unset;
+	font-size: 30px;
+}
+.hello5{
+	color: blueviolet;
+	font-size: 40px;
+	text-align: end;
+}
+#hello6{
+	color: cornflowerblue;
+	font-stretch: expanded;
+	font-size: 45px;
+}
+.hello7{
+	color: crimson;
+	text-indent: 300px;
+	font-size: 40px;
+}
+#hello8{
+	color: burlywood;
+	text-indent: 600px;
+	font-size: 60px;
+}
+.hello9{
+	color: slateblue;
+	text-shadow:0cm;
+	text-indent: 250px;
+	font-size: 30px;
+}
+#hello10{
+	color: springgreen;
+	text-rendering: geometricPrecision;
+	text-indent: 900px;
+	font-size: 50px;
+}
